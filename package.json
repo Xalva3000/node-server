@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Xalva",
   "license": "ISC",
   "description": ""
 }
